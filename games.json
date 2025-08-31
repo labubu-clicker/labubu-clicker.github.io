@@ -3,5 +3,45 @@
         "name": "Labubu Clicker",
         "slug": "labubu-clicker",
         "image": "/cache/data/image/game/labubu-clicker/labubu-clicker-512x512-m186x186.webp"
+    },
+    {
+        "name": "Chill Guy Clicker",
+        "slug": "chill-guy-clicker",
+        "image": "/cache/data/image/game/chill-guy-clicker/512x512_logo-m186x186.webp"
+    },
+    {
+        "name": "Lizard Lizard Clicker",
+        "slug": "lizard-lizard-clicker",
+        "image": "/cache/data/image/game/lizard-lizard-clicker/lizard-lizard-clicker-m186x186.webp"
+    },
+    {
+        "name": "Italian Brainrot Clicker",
+        "slug": "italian-brainrot-clicker",
+        "image": "/cache/data/image/game/italian-brainrot-clicker/italian-brainrot-clicker-game-m186x186.webp"
+    },
+    {
+        "name": "Tung Sahur Clicker",
+        "slug": "tung-sahur-clicker",
+        "image": "/cache/data/image/game/tung-sahur-clicker/tung-sahur-clicker-1200x1200-m186x186.webp"
+    },
+    {
+        "name": "Bombardino Crocodilo Clicker",
+        "slug": "bombardino-crocodilo-clicker",
+        "image": "/cache/data/image/game/bombardino-crocodilo-clicker/bombardino-crocodilo-clicker-512x512-logo-m186x186.webp"
+    },
+    {
+        "name": "Chicken Jockey Clicker",
+        "slug": "chicken-jockey-clicker",
+        "image": "/cache/data/image/game/chicken-jockey-clicker/chicken-jockey-clicker-m186x186.webp"
+    },
+    {
+        "name": "Tralalero Tralala Clicker",
+        "slug": "tralalero-tralala-clicker",
+        "image": "/cache/data/image/game/tralalero-tralala-clicker/tralalero-tralala-clicker-1200x1200-m186x186.webp"
+    },
+    {
+        "name": "Chill Guy Clicker 3D",
+        "slug": "chill-guy-clicker-3d",
+        "image": "/cache/data/image/game/chill-guy-clicker-3d/chill-guy-clicker-3d-1200x1200-m186x186.webp"
     }
 ]
